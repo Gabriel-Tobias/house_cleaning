@@ -12,3 +12,6 @@ Trabalho para faculdade
   Possui em sistema de seleção de serviços com valores pré definidos ao tamanho de apartamento e tipo de limpeza
   
   Esse repositorio esta sendo criado para fazer o versionamento do software desenvolvido com o conteudo aprendido em sala de aula, sem quaisquer ajuda de terceiros.
+  
+  A versão disponivel nesse repositorio nao é a versão final, em breve postarei a versao atualizada.
+  
